@@ -1,0 +1,132 @@
+a:visited { 
+ text-decoration: none; 
+ color: #ff00ff; 
+}
+
+@font-face{
+   src: url(fonts/DMSans-Medium.ttf);
+   font-family: dmsansmed;
+}
+
+@font-face{
+   src: url(fonts/SpaceGrotesk[wght].ttf);
+   font-family: spacegrotesk;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Regular.ttf);
+   font-family: chivo-regular;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Light.ttf);
+   font-family: chivo-light;
+}
+
+@font-face{
+   src: url(fonts/Cormorant-SemiBold.ttf);
+   font-family: comorant-semibold;
+}
+
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+h1{
+   font-family: dmsansmid;
+   color:#00000;
+   display: flex;
+   width: 100%;
+   font-size: 40px;
+   text-align: left;
+   min-height: 7vh;
+   letter-spacing: .2rem;
+}
+
+nav{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+.nav__links{
+   display: flex;
+   justify-content: space-around;
+   width: 100%;
+   list-style-type: none;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#ff00ff;
+}
+
+a:active { text-decoration: none; }
+
+.banner{
+   font-family: chivo-regular;
+   font-size: 12px;
+}
+
+.signature{
+   transform: scale(-1, 1);
+   -moz-transform: scale(-1, 1);
+   -webkit-transform: scale(-1, 1);
+   -o-transform: scale(-1, 1);
+   -ms-transform: scale(-1, 1);
+   transform: scale(-1, 1);
+   font-family: chivo-regular;
+   font-size: 10px;
+   bottom:0;
+   right:0;
+   color:#f20000 }
+
+.nav__personal{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#fff8dc;
+}
+
+a:active { text-decoration: none; }
+
+
+body {
+   margin: 0;
+}
+
+.container {
+   column-count: 3;
+   column-gap: 10px;
+   max-width: 100%;
+   margin: 0 auto;
+   background: #FFFFFF;
+}
+
+.center{
+   width: 100%;
+  height: auto;
+}
+

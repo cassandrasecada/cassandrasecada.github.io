@@ -1,0 +1,157 @@
+a:visited { 
+ text-decoration: none; 
+ color: #ff00ff; 
+}
+
+@font-face{
+   src: url(fonts/DMSans-Medium.ttf);
+   font-family: dmsansmed;
+}
+
+@font-face{
+   src: url(fonts/SpaceGrotesk[wght].ttf);
+   font-family: spacegrotesk;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Regular.ttf);
+   font-family: chivo-regular;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Light.ttf);
+   font-family: chivo-light;
+}
+
+@font-face{
+   src: url(fonts/Cormorant-SemiBold.ttf);
+   font-family: comorant-semibold;
+}
+
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+
+h1{
+   font-family: dmsansmid;
+   color:#00000;
+   display: flex;
+   width: 100%;
+   font-size: 40px;
+   text-align: left;
+   min-height: 7vh;
+   letter-spacing: .2rem;
+}
+
+nav{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+.nav__links{
+   display: flex;
+   justify-content: space-around;
+   width: 100%;
+   list-style-type: none;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#ff00ff;
+}
+
+a:active { text-decoration: none; }
+
+.banner{
+   font-family: chivo-regular;
+   font-size: 12px;
+}
+
+.signature{
+   font-family: chivo-regular;
+   font-size: 10px;
+   position:fixed;
+   top:15pc;
+   right:0;
+   color:#f20000 }
+
+.nav__personal{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#fff8dc;
+}
+
+a:active { text-decoration: none; }
+
+
+body {
+   margin: 0;
+}
+
+.ptag {
+  font-family: chivo-regular;
+   color: #000000;
+   display: flex;
+   width: 100%;
+   font-size: 13px;}
+
+.button {
+  text-align: center;
+  justify-content: space-around;
+}
+
+.video-container {
+   position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    transform: translateX(calc((100% - 100vw) / 2));
+   z-index: -1;
+   pointer-events: none;
+   overflow: hidden;
+}
+.video-container iframe {
+   width: 100vw;
+   height: 56.25vw; /* Given a 16:9 aspect ratio, 9/16*100 = 56.25 */
+   min-height: 100vh;
+   min-width: 177.77vh; /* Given a 16:9 aspect ratio, 16/9*100 = 177.77 */
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.stamp{
+   font-family: chivo-regular;
+   font-size: 10px;
+position: absolute;
+bottom:0;
+left:0;
+color:#FFFFFF;
+}

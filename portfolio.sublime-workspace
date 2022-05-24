@@ -1,0 +1,590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list",
+				"list-style-type\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "movement.html",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "About.html",
+			"settings":
+			{
+				"buffer_size": 1998,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Contact.html",
+			"settings":
+			{
+				"buffer_size": 2287,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "clickme.html",
+			"settings":
+			{
+				"buffer_size": 6416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mp3.html",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<! DOCTYPE html>\n<html lang=\"en\">\n\t<head>\n\t\t<meta charset=\"utf-8\">\n\t\t<Meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t\t<title>Portfolio Website</title>\n\t\t<link href=\"oolstills.css\" rel=\"stylesheet\" type=\"text/css\">\n\t\t<style>\nimg {\n  display: block;\n  margin-left: auto;\n  margin-right: auto;\n}\n</style>\n\t</head>\n\t\n\t<body>\n\t\t<div id=\"img\">\n\t\t<img src=\"attachments/OOL screencap 10.png\" class=\"center\" width=\"1000\" height=\"560\"><br>    \n\t\t<img src=\"attachments/OOL screencap 1.png\" class=\"center\" width=\"1000\" height=\"560\"><br>\n\t\t<img src=\"attachments/OOL screencap 3.png\"  class=\"center\" width=\"1000\" height=\"560\"><br>\n\t\t<img src=\"attachments/OOL screencap 8.png\" class=\"center\" width=\"1000\" height=\"560\"><br>\n\t\t<img src=\"attachments/OOL screencap 4.png\" class=\"center\" width=\"1000\" height=\"560\"><br>\n\t\t<img src=\"attachments/OOL screencap 5.png\" class=\"center\" width=\"1000\" height=\"560\"><b\n\t\t<img src=\"attachments/OOL screencap 7.png\" class=\"center\" width=\"1000\" height=\"560\"><br>\n\t\t<img src=\"attachments/OOL screencap 9.png\" class=\"center\" width=\"1000\" height=\"560\"><br>\n\t</div>\n\t\n</body>\n</Meta>\n</head>\n</html>\n\n",
+			"file": "oolstills.html",
+			"file_size": 1137,
+			"file_write_time": 132966404350000000,
+			"settings":
+			{
+				"buffer_size": 1137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "photos.html",
+			"settings":
+			{
+				"buffer_size": 2703,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Work.html",
+			"settings":
+			{
+				"buffer_size": 2217,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Personal.html",
+			"settings":
+			{
+				"buffer_size": 1233,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/index.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/contactstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/photosstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/clickmestyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/clickme.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/movement.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/photos.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/mp3.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/mp3style.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/personalstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/Work.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/indexstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/About.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/aboutstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/Personal.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/Contact.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/workstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/movementstyle.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/oolstills.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/oolstills.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/stills.css",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/stills.html",
+		"/Users/cassandrasecada/Desktop/coding project- portfolio/style.css",
+		"/Users/cassandrasecada/Desktop/RAHEEMindex.html",
+		"/Users/cassandrasecada/Desktop/fitnesstemplatecassandrasecada.html",
+		"/Users/cassandrasecada/Desktop/portfoliosite.html",
+		"/Users/cassandrasecada/Desktop/nutrition.html",
+		"/Users/cassandrasecada/Desktop/CIS/forwardfitness.css",
+		"/Users/cassandrasecada/Desktop/index.html",
+		"/Users/cassandrasecada/Desktop/fowardfitnessclubsitecassandrasecada.html",
+		"/Users/cassandrasecada/Desktop/<!DOCTYPE html>"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"27"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/cassandrasecada/Desktop/coding project- portfolio"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 9,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "movement.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1058,
+								1058
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "About.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1997,
+								1997
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2278,
+								2278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "clickme.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "mp3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1399,
+								1399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "oolstills.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1136,
+								1136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "photos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2703,
+								2703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Work.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2217,
+								2217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1936,
+								1936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Personal.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1232,
+								1232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,169 @@
+
+
+a:visited { 
+ text-decoration: none; 
+ color: #e9967a; 
+}
+
+@font-face{
+   src: url(fonts/DMSans-Medium.ttf);
+   font-family: dmsansmed;
+}
+
+@font-face{
+   src: url(fonts/SpaceGrotesk[wght].ttf);
+   font-family: spacegrotesk;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Regular.ttf);
+   font-family: chivo-regular;
+}
+
+@font-face{
+   src: url(fonts/Chivo-Light.ttf);
+   font-family: chivo-light;
+}
+
+@font-face{
+   src: url(fonts/Cormorant-SemiBold.ttf);
+   font-family: comorant-semibold;
+}
+
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+
+
+h1{
+   font-family: dmsansmid;
+   color: #6495ed;
+   display: flex;
+   width: 100%;
+   font-size: 40px;
+   text-align: left;
+   min-height: 7vh;
+   background-color: #ffe4b5;
+   background-color: rgba(255,228,181,0.5);
+   letter-spacing: .2rem;
+}
+
+nav{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+.nav__links{
+   justify-content: space-around;
+   width: 100%;
+   top:0;
+   right:0;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#ff00ff;
+}
+
+a:active { text-decoration: none; }
+
+.banner{
+   font-family: chivo-regular;
+   font-size: 12px;
+}
+
+.signature{
+   transform: scale(-1, 1);
+   -moz-transform: scale(-1, 1);
+   -webkit-transform: scale(-1, 1);
+   -o-transform: scale(-1, 1);
+   -ms-transform: scale(-1, 1);
+   transform: scale(-1, 1);
+   font-family: chivo-regular;
+   font-size: 10px;
+   position:absolute;
+   top:0;
+   right:0;
+   color: #FF0000;
+}
+
+.nav__personal{
+   min-height: 5vh;
+   font-family: chivo-regular;
+   font-size: 10px;
+   color: #f8f8ff;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover {color:#fff8dc;
+}
+
+a:active { text-decoration: none; }
+
+.signature{
+   transform: scale(-1, 1);
+   -moz-transform: scale(-1, 1);
+   -webkit-transform: scale(-1, 1);
+   -o-transform: scale(-1, 1);
+   -ms-transform: scale(-1, 1);
+   transform: scale(-1, 1);
+   font-family: chivo-regular;
+   font-size: 10px;
+   bottom:0;
+   right:0;
+   text-decoration: none
+   color:#f20000;
+}
+
+.stamp{
+   font-family: chivo-regular;
+   font-size: 10px;
+position: absolute;
+bottom:0;
+left:0;
+color:#FFFFFF;
+}
+
+.video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+    z-index: -1;
+   pointer-events: none;
+   overflow: hidden;
+}
+.video-container > video {
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+@media screen and (max-aspect-ratio: 1920/1080) {
+  .video-container > video {
+    height: 100%;
+  }
+}
+@media screen and (min-aspect-ratio: 1920/1080) {
+  .video-container > video {
+    width: 100%;
+  }
